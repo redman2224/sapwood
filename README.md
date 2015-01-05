@@ -1,8 +1,6 @@
-Taproot
-=============
+**This branch is no longer maintained. It was used as a test for production
+instances during the initial sprint.**
 
-Taproot is a self-hosted content management system for managing several sites
-under the same system and on the same server.
+**Future production tests will be maintained from the `prod-test` branch.**
 
-This project is still undergoing its initial sprint. It will be documented
-following v1.0 release. This is estimated for mid-January 2015.
+We will keep the branch in this repo through 2015.
